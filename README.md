@@ -1,4 +1,4 @@
-# ip-traceroute-whois
+# ip-traceroute-whois-jp
 
 ## Description
 
