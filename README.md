@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple script to get the IP, traceroute and whois of the IP.
+This is simple scripts to get the IP, traceroute and whois of the IP.
 
 ## Usage
 
